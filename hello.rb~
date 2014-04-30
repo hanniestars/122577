@@ -1,0 +1,5 @@
+require 'sinatra'
+
+get '/hi; do
+	"<h1>Hello, World From Sinatra</h1>"
+end
