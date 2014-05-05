@@ -1,0 +1,14 @@
+require 'sinatra'
+
+get '/listofrooms' do
+end
+
+get '/makereservations' do
+end
+
+get '/aboutus' do
+end
+
+
+
+
